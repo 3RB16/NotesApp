@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone https://github.com/3RB16/NotesApp.git
 
 ```
 
@@ -23,13 +23,13 @@ cd Django-React-NotesApp
 # If you are on Windows
 virtualenv env
 # If you are on Linux or Mac
-python -m venv env
+python -m venv NotesApp
 ```
 
 --> Activate the virtual environment :
 ```bash
 # If you are on Windows
-.\env\Scripts\activate
+.\NotesApp\Scripts\activate
 # If you are on Linux or Mac
 source env/bin/activate
 ```
@@ -43,6 +43,6 @@ source env/bin/activate
 python manage.py runserver
 ```
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+> Then, the development server will be started at http://127.0.0.1:8000/
 
 #
