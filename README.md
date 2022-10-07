@@ -1,7 +1,7 @@
 <div align="center">
 <img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
 
-# Django & React Notes App
+# Notes App
 </div>
 
 ### Cloning the repository
@@ -14,7 +14,7 @@ git clone https://github.com/3RB16/NotesApp.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd NotesApp
 
 ```
 
